@@ -1,3 +1,8 @@
+##############################################]
+#authors : d.aboud / p.alexandre / q.gourier  |
+#project : PMI                                |
+#date    : 22-jan-23                          |
+##############################################]
 
 import sqlite3, datetime
 
